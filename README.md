@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Meet Patel</h1>
-<h3 align="center">Software Development Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MeetMRP&label=Profile%20views&color=0e75b6&style=flat" alt="MeetMRP" /> </p>
+<h3 align="center">SDET | Aspiring DevOps Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MeetMRP&label=Profile%20views&color=0e75b6&style=flat" alt="MeetMRP" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MeetMRP&theme=darkhub" alt="MeetMRP" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning and deep learning**
-- 💬 Ask me about **Python, Django, DRF and FastAPI**
-- 📫 How to reach me **meetpatelmrp1005@gmail.com**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1YVXBu0FYg3dgQXFSOiIgxko2CHQuAfHu/view?usp=sharing**
-- ⚡ Fun fact **I can code**
+- 🌱 Currently learning **DevOps, CI/CD pipelines, Docker, Jenkins, and Cloud automation**
+- 💬 Ask me about **Python, Automation, CI/CD, Docker, Jenkins**
+- 📫 Reach me at **meetpatelmrp1005@gmail.com**
+- 📄 Resume & experience: **[Google Drive](https://drive.google.com/file/d/1dtfFIxpotrdJ6Y3dfSIituOkw8n9gZMq/view?usp=drive_link)**
+- ⚡ Fun fact: **I can setup fully automated pipelines in minutes!**
 
 <div> <a href="https://www.linkedin.com/in/meetpatel10" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/MeetMRP" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
